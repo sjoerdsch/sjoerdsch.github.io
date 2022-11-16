@@ -1,0 +1,4 @@
+baseURL = 'http://sjoerdsch.github.io/'
+languageCode = 'en-us'
+title = 'Sjoerds Personal site'
+theme = "beautifulhugo"

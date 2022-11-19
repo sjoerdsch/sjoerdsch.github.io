@@ -44,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Sjoerd Schaper
+  name = "Sjoerd Schaper"
   website = "https://sjoerdsch.github.io"
   email = "sjoerd.schaper@protonmail.com"
   github = "sjoerdsch"
@@ -64,7 +64,6 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 3
 
-[
 [[menu.main]]
     name = "Tags"
     url = "tags"

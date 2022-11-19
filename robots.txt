@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://sjoerdsch.github.io/sitemap.xml

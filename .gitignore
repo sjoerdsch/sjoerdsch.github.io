@@ -40,3 +40,5 @@ content/.DS_Store
 .DS_Store
 .DS_Store
 content/.DS_Store
+public/robots.txt
+public/sitemap.xml

@@ -6,4 +6,4 @@ categories: ["Technology"]
 Tags: ['Python','SQL']
 ---
 
-Test pagina 1
+Deze site is nog in opbouw.

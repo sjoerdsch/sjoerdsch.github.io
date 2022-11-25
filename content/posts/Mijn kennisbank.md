@@ -6,12 +6,18 @@ categories: ["Technologie"]
 Tags: ['Markdown','Kennisbank']
 ---
 
-##Obsidian
+# Obsidian
 
 Iedereen heeft wel aantekeningen die je ergens wilt vastleggen. Maar het is steeds de keuze hoe je dit wilt vastleggen.
-Ook ik heb meerdere vormen gebruikt:
-* in Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen
-* in Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed
-* in Google docs: beter doorzoekbaar, maar nog steeds 'losse bestanden'
 
-Recent kwan ik een programma tegen wat een hoop van deze tekortkomingen niet heeft [Opbidian](https://obsidian.md/)
+In de loop van de tijd heb ik meerdere vormen gebruikt:
+* in Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen.
+* in One note: wordt uitgefaseerd.
+* in Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed. Bovendien opslag in de cloud.
+* in Google docs: beter doorzoekbaar, maar nog steeds 'losse bestanden'. Ook een cloudoplossing.
+
+Recent kwan ik een programma tegen wat veel van deze tekortkomingen niet heeft [Obsidian](https://obsidian.md/).
+
+Obsidian maakt voor de opslag gebruik van platte tekstbestanden met een opmaak in [Markdown](https://www.markdownguide.org/). Dus weinig kans dat ze over enkele jaren niet meer leesbaar zullen zijn. Daaromheen is een boomstructuur gebouwd waarin je je documenten netjes kunt ordenen. Bovendien kun je de documenten ook onderling linken. De onderlinge links zijn in een een grafische view weer te geven. Als laatste beschikt het pakket ook over goede zoekmogelijkheden.
+
+De basisverie is (voor altijd) gratis te gebruiken.

@@ -11,10 +11,10 @@ Tags: ['Markdown','Kennisbank']
 Iedereen heeft wel aantekeningen die je ergens wilt vastleggen. Maar het is steeds de keuze hoe je dit wilt vastleggen.
 
 In de loop van de tijd heb ik meerdere vormen gebruikt:
-* in Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen.
-* in One note: wordt uitgefaseerd.
-* in Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed. Bovendien opslag in de cloud.
-* in Google docs: beter doorzoekbaar, maar nog steeds 'losse bestanden'. Ook een cloudoplossing.
+* Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen.
+* One note: wordt uitgefaseerd.
+* Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed. Bovendien opslag in de cloud.
+* Google docs: beter doorzoekbaar, maar nog steeds 'losse bestanden'. Ook een cloudoplossing.
 
 Recent kwan ik een programma tegen wat veel van deze tekortkomingen niet heeft [Obsidian](https://obsidian.md/).
 

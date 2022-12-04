@@ -9,7 +9,7 @@ Tags: ['Markdown','Kennisbank']
 
 Iedereen heeft wel aantekeningen die je ergens wilt vastleggen. Maar het is steeds een keuze hoe en waar je die digitaal moet bewaren.
 
-In de loop van de tijd heb ik meerdere vormen gebruikt:
+In de loop van de tijd heb ik meerdere oplossingen gebruikt:
 * Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen.
 * One note: wordt uitgefaseerd.
 * Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed. Bovendien opslag in de cloud.

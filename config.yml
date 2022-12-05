@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-FG34W7VJP8
 
 minify:
   disableXML: true
@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Sjoerd\'s Notebook"
-    Content: Welcome to my blog about my work, interests and hobbies.
+    Content: Welkom op mijn site over mijn werk, interesses en hobby's.
 
   socialIcons:
     - name: mastodon

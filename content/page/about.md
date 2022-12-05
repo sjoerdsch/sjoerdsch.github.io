@@ -7,6 +7,7 @@ comments: false
 
 Over Sjoerd Schaper
 
+- Man
 - Getrouwd
 - Vader van zoon en dochter
 - Flevoland
@@ -21,4 +22,5 @@ Over Sjoerd Schaper
 
 
 [Linkedin](https://www.linkedin.com/in/sjoerdschaper/)
+
 [Mastodon](https://mastodon.nl/@Sjoerd_s)

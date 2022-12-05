@@ -10,7 +10,7 @@ Herfst 2021 hebben we onze woonkamer een upgrade gegeven. Onderdeel hiervan was 
 van vloerverwarming op de begane grond.
 In november '21 hebben we onze CV-ketel laten vervangen door een hybride systeem, CV-ketel en warmtepomp.
 De warmtepomp is een buitenunit. Onze motivatie was in eerste instantie om wat duurzamer te gaan leven. Inmiddels
-is de energiemarkt volledig veranderd en levert het extra financieel voordele op.
+is de energiemarkt volledig veranderd en levert het extra financieel voordeel op.
 
 Sinds een aantal jaren hebben we al 12 zonnepanelen.
 

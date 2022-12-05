@@ -32,15 +32,5 @@ In de loop van de tijd heb ik meerdere oplossingen gebruikt:
 Word bestanden: geen goede structuur, slecht doorzoekbaar en het formaat kan in de toekomst wijzigen. One note: wordt uitgefaseerd. Evernote: dat leek veelbelovend, maar de gratis versie werd steeds meer uitgekleed. Bovendien opslag in de cloud.</description>
     </item>
     
-    <item>
-      <title>My Second Post</title>
-      <link>http://sjoerdsch.github.io/posts/my-second-post/</link>
-      <pubDate>Wed, 16 Nov 2022 16:24:23 +0100</pubDate>
-      
-      <guid>http://sjoerdsch.github.io/posts/my-second-post/</guid>
-      <description>Test pagina 2
-Deze site is nog in opbouw.</description>
-    </item>
-    
   </channel>
 </rss>

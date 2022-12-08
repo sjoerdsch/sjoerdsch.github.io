@@ -11,7 +11,7 @@ Over Sjoerd Schaper
 - Getrouwd
 - Vader van zoon en dochter
 - Flevoland
-- Product Owner van een GDSN Data pool bij [GS1 Nederland](https://www.gs1.nl).
+- Product Owner GDSN Data pool [GS1 Nederland](https://www.gs1.nl)
 - Python, databases 
 - Homeassistant
 - Fietser, als het even kan meerdaagse tochten

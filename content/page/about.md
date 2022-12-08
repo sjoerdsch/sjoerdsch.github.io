@@ -12,8 +12,8 @@ Over Sjoerd Schaper
 - Vader van zoon en dochter
 - Flevoland
 - Product Owner GDSN Data pool [GS1 Nederland](https://www.gs1.nl)
-- Python, databases 
-- Homeassistant
+- Python, databases, Linux
+- Smart home (Home Assistant)
 - Fietser, als het even kan meerdaagse tochten
 - Hobby fotograaf en filmer
 - Muziek- en podcastluisteraar

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weer on Sjoerd&#39;s Notebook</title>
+    <link>http://sjoerdsch.github.io/categories/weer/</link>
+    <description>Recent content in Weer on Sjoerd&#39;s Notebook</description>
+    <image>
+      <url>http://sjoerdsch.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://sjoerdsch.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 16:24:23 +0100</lastBuildDate><atom:link href="http://sjoerdsch.github.io/categories/weer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temperatuur records in Nederland</title>
+      <link>http://sjoerdsch.github.io/posts/temperatuur-records-nederland/</link>
+      <pubDate>Sat, 10 Dec 2022 16:24:23 +0100</pubDate>
+      
+      <guid>http://sjoerdsch.github.io/posts/temperatuur-records-nederland/</guid>
+      <description>&amp;lsquo;| | Station | Datum | Temp |\n |&amp;mdash;:|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;-:|\n | 1 | Gilze-Rijen | 2019-07-25 | 40.7 |\n | 2 | Westdorpe | 2019-07-25 | 40.6 |\n | 3 | Eindhoven | 2019-07-25 | 40.4 |\n | 4 | Hupsel | 2019-07-25 | 40.4 |\n | 5 | Wilhelminadorp | 2019-07-25 | 40.3 |\n | 6 | Arcen | 2019-07-25 | 40.2 |\n | 7 | Twenthe | 2019-07-25 | 40.</description>
+    </item>
+    
+  </channel>
+</rss>

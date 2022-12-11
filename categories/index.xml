@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Nov 2022 16:24:23 +0100</lastBuildDate><atom:link href="http://sjoerdsch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 16:24:23 +0100</lastBuildDate><atom:link href="http://sjoerdsch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weer</title>
+      <link>http://sjoerdsch.github.io/categories/weer/</link>
+      <pubDate>Sat, 10 Dec 2022 16:24:23 +0100</pubDate>
+      
+      <guid>http://sjoerdsch.github.io/categories/weer/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Energie</title>
       <link>http://sjoerdsch.github.io/categories/energie/</link>

@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Nov 2022 16:24:23 +0100</lastBuildDate><atom:link href="http://sjoerdsch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 16:24:23 +0100</lastBuildDate><atom:link href="http://sjoerdsch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temperatuur records in Nederland</title>
+      <link>http://sjoerdsch.github.io/posts/temperatuur-records-nederland/</link>
+      <pubDate>Sat, 10 Dec 2022 16:24:23 +0100</pubDate>
+      
+      <guid>http://sjoerdsch.github.io/posts/temperatuur-records-nederland/</guid>
+      <description>&amp;lsquo;| | Station | Datum | Temp |\n |&amp;mdash;:|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;-:|\n | 1 | Gilze-Rijen | 2019-07-25 | 40.7 |\n | 2 | Westdorpe | 2019-07-25 | 40.6 |\n | 3 | Eindhoven | 2019-07-25 | 40.4 |\n | 4 | Hupsel | 2019-07-25 | 40.4 |\n | 5 | Wilhelminadorp | 2019-07-25 | 40.3 |\n | 6 | Arcen | 2019-07-25 | 40.2 |\n | 7 | Twenthe | 2019-07-25 | 40.</description>
+    </item>
+    
     <item>
       <title>Een jaar een warmtepomp</title>
       <link>http://sjoerdsch.github.io/posts/een-jaar-een-warmtepomp/</link>

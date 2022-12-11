@@ -1,6 +1,6 @@
 ---
 title: "Een jaar een warmtepomp"
-date: 2022-11-16T16:24:23+01:00
+date: 2022-12-05T16:24:23+01:00
 categories: ["Energie"]
 Tags: ['Duurzaamheid','Aardgas','Electriciteit']
 draft: False

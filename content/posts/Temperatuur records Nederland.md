@@ -3,7 +3,7 @@ title: "Temperatuur records in Nederland"
 date: 2022-12-10T16:24:23+01:00
 categories: ["Weer"]
 Tags: ['Temperatuur','Records']
-draft: False
+draft: True
 ---
 
 '|    | Station             | Datum      |   Temp |\n
